@@ -1,5 +1,7 @@
 ## README-FILE-Cheatsheet
-In this Cheatsheet you can find everything which is required to create a appreciable README.md File.
+A Readme file in a repo contains all the information regarding installation, working, development on the local server, and future use. It is very important for every tech enthusiast to learn how to write the perfect Readme.
+
+In this Cheatsheet you can find everything which is required to create a appreciable README.md File.<br/>
 Hope you will find it helpful. If you find it helpful, don't forget to give it a star⭐
 
 ## Table of Contents
@@ -49,3 +51,4 @@ Alt-H1
 
 Alt-H2
 ------
+
