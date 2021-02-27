@@ -1,4 +1,4 @@
-## README-FILE-Cheatsheet
+## README-FILE-CheatSheet
 A Readme file in a repo contains all the information regarding installation, working, development on the local server, and future use. It is very important for every tech enthusiast to learn how to write the perfect Readme.👨‍💻🛎️
 
 In this Cheatsheet you can find everything which is required to create a appreciable README.md File.<br/>
