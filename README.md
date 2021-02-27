@@ -17,7 +17,6 @@ Hope you will find it helpful. If you find it helpful, don't forget to give it a
 - [Horizontal Rule](#horizontal-rule)
 - [Line Breaks](#line-breaks)
 - [YouTube Videos](#youtube-videos)
-- [TeX Mathematical Formulae](#texmathematical-formulae)
 - [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#table-of-contents)
 
 ### Headers
@@ -265,6 +264,7 @@ Quote break.
 Quote break.
 
 > This is a very long line that will still be quoted properly when it wraps. Oh boy let's keep writing to make sure this is long enough to actually wrap for everyone. Oh, you can *put* **Markdown** into a blockquote.
+
 ### Inline HTML
 You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
 <pre>
@@ -282,6 +282,7 @@ You can also use raw HTML in your Markdown, and it'll mostly work pretty well.
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
+
 ### Horizontal Rule
 <pre>
 Three or more...
@@ -322,6 +323,17 @@ This line is separated from the one above by two newlines, so it will be a *sepa
 
 This line is also a separate paragraph, but...
 This line is only separated by a single newline, so it's a separate line in the *same paragraph*.</pre>
+
+### Youtube Videos
+They can't be added directly but you can add an image with a link to the video like this:
+<pre>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a></pre>
+Or, in pure Markdown, but losing the image sizing and border:
+<pre>
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)</pre>
+
 
 
 
