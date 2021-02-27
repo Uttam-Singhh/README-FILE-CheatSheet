@@ -1,4 +1,7 @@
 ## README-FILE-CheatSheet
+
+![ReadMe file Cheatsheet](https://user-images.githubusercontent.com/63050765/109381838-a7614f80-7902-11eb-8065-3dc6cbcd0294.png)
+
 A Readme file in a repo contains all the information regarding installation, working, development on the local server, and future use. It is very important for every tech enthusiast to learn how to write the perfect Readme.👨‍💻🛎️
 
 In this Cheatsheet you can find everything which is required to create a appreciable README.md File.<br/>
