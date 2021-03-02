@@ -20,7 +20,11 @@ Hope you will find it helpful. If you find it helpful, don't forget to give it a
 - [Horizontal Rule](#horizontal-rule)
 - [Line Breaks](#line-breaks)
 - [YouTube Videos](#youtube-videos)
-- [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#table-of-contents)
+
+## Github also supports Emojis👇
+You can directly copy and paste emojis.<br/>
+or
+You can check out this amazing repo 👉 [Emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#table-of-contents)
 
 ### Headers
 <pre>
