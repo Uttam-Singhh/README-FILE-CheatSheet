@@ -5,7 +5,7 @@
 A Readme file in a repo contains all the information regarding installation, working, development on the local server, and future use. It is very important for every tech enthusiast to learn how to write the perfect Readme.👨‍💻🛎️
 
 In this Cheatsheet you can find everything which is required to create a appreciable README.md File.
-This is not purely my work, I have gathered all the information present on the web here beacause sometimes it is very cumbersome to search everywhere so this is one place where you will find everything.<br/>
+This is not purely my work, I have gathered all the information present on the web here because sometimes it is very cumbersome to search cheats all around so this is one place where you will find everything.<br/>
 Hope you will find it helpful. If you find it helpful, don't forget to give it a star.⭐
 
 ## Table of Contents
