@@ -58,7 +58,12 @@ Alt-H1
 
 Alt-H2
 ------
+#### Blockquote
 
+<pre> > Blockquote ? Yes it is. </pre>
+ 
+> Blockquote ? Yes it is.
+ 
 ### Emphasis
 <pre>
 Emphasis, aka italics, with *asterisks* or _underscores_.
